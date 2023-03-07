@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.verde {
+    background-color: rgb(29, 130, 29);
+    padding: 10px;
+    border-radius: 10px;
+}
+.amarelo {
+    background-color: rgb(175, 175, 44);
+    padding: 10px;
+    border-radius: 10px;
+}
+.cinza {
+    background-color: grey;
+    padding: 10px;
+    border-radius: 10px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.verde:hover {
+    background-color:rgb(35, 159, 35) ;
+}
+
+.amarelo:hover {
+    background-color: rgb(196, 196, 49);
+}
+.cinza:hover {
+    background-color: rgb(156, 154, 154);
+}
+li {
+    margin-bottom: 30px;
+}
